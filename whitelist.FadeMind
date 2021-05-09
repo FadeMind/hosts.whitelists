@@ -51,16 +51,19 @@ media.fastclick.net
 metrics.ticketmaster.com
 nl.sitestat.com
 nuvi2.cdntvn.pl
+ocsp.apple.com
 partner.googleadservices.com
 primgw.vowifi2.spcsdns.net
 pro.hit.gemius.pl
 production-cmp.isgprivacy.cbsi.com
 prodxnews1blob.blob.core.windows.net
 pubads.g.doubleclick.net
+redirector.gvt1.com
 refer.ccbill.com
 rmads.msn.com
 s.amazon-adsystem.com
 s0.2mdn.net
+safebrowsing.g.aaplimg.com
 sbg.hit.gemius.pl
 sdk.privacy-center.org
 secure-au.imrworldwide.com
@@ -77,6 +80,7 @@ stats.channel4.com
 stats.surfaid.ihost.com
 str.hit.gemius.pl
 t2.hulu.com
+token.safebrowsing.apple
 track.hulu.com
 transfer.go.com	
 tvn.adocean.pl
