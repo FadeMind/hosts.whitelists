@@ -1,0 +1,322 @@
+# Source: https://raw.githubusercontent.com/hg1978/AdGuard-Home-Whitelist/master/whitelist.txt with removed ADGUARD syntax
+# Date: 2020-12-28
+# License: MIT
+# Author: hg1978
+# 
+#
+# My Adguard Home whitelist
+# Instagram
+cdninstagram.com
+instagram.com
+instagram.c10r.facebook.com
+# F1 TV
+f1-prod-production.apigee.net
+f1-prod-production.dn.apigee.net
+formula1.com
+# Joyn TV Stream
+yospace.com
+# Google
+0.client-channel.google.com
+2.android.pool.ntp.org
+android.clients.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+cse.google.com
+googleapis.com
+gstatic.com
+manifest.googlevideo.com
+redirector.googlevideo.com
+video-stats.l.google.com
+geo3.ggpht.com
+yt3.ggpht.com
+# Youtube
+s.youtube.com
+s2.youtube.com
+youtu.be
+youtube-nocookie.com
+i.ytimg.com
+i1.ytimg.com
+s.ytimg.com
+# Plex
+app.plex.tv
+cpms.spop10.ams.plex.bz
+cpms35.spop10.ams.plex.bz
+dashboard.plex.tv
+meta-db-worker02.pop.ric.plex.bz
+meta.plex.bz
+meta.plex.tv
+my.plexapp.com
+nine.plugins.plexapp.com
+node.plexapp.com
+o1.email.plex.tv
+o2.sg0.plex.tv
+proxy.plex.bz
+proxy.plex.tv
+proxy02.pop.ord.plex.bz
+pubsub.plex.bz
+pubsub.plex.tv
+staging.plex.tv
+status.plex.tv
+tvdb2.plex.tv
+tvthemes.plexapp.com
+# Github
+github.com
+github.io
+raw.githubusercontent.com
+# Cloudflare
+cdn.cloudflare.net
+cdnjs.cloudflare.com
+# Dropbox
+dl.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+# No-IP.com
+no-ip.com
+# Twitter
+twimg.com
+twitter.com
+t.co
+# Optimizely
+cdn.optimizely.com
+cdn2.optimizely.com
+cdn3.optimizely.com
+# Akamai Technologies
+akamaihd.net
+akamaitechnologies.com
+akamaized.net
+widget-cdn.rpxnow.com
+akamai.net
+akadns.net
+# Sonarr TV Soft
+apt.sonarr.tv
+download.sonarr.tv
+forums.sonarr.tv
+services.sonarr.tv
+skyhook.sonarr.tv
+# Ipify.org
+api.ipify.org
+# Rlje.net VOD
+api.rlje.net
+# Buffer CDN 
+bufferapp.com
+# Embedly.com
+cdn.embedly.com
+# Dataplicity.com
+dataplicity.com
+# Drift.com
+drift.com
+driftt.com
+# Giphy.com
+giphy.com
+# Gravatar Image
+gravatar.com
+# Ted.com
+hls.ted.com
+app-api.ted.com
+tedcdn.com
+# Vidible Video Platform
+img.vidible.tv
+cdn.vidible.tv
+delivery.vidible.tv
+videos.vidible.tv
+# ImgIX
+imgix.net
+# XKCD
+imgs.xkcd.com
+#Bitly URL Shortener
+j.mp
+# Jquery
+jquery.com
+# Jsdelivr.net Open Source CDN
+jsdelivr.net
+# Malwarebytes Anti-Malware
+keystone.mwbsys.com
+# Aliexpress.com
+login.aliexpress.com
+# Adswizz sponsor clips before several podcasts
+npr-news.streaming.adswizz.com
+# CBS Television Stream
+cbsi.com
+cbsinteractive.hb.omtrdc.net
+s0.2mdn.net
+# Audioscrobbler.com
+ws.audioscrobbler.com
+# Pinterest
+pinterest.com
+# Placehold it image soft
+placehold.it
+placeholdit.imgix.net
+# Brightcove Player
+brightcove.net
+secure.brightcove.com
+edge.api.brightcove.com
+# Cloudinary Upload Platform
+res.cloudinary.com
+# Shopify.com eCommerce Software
+v.shopify.com
+s.shopify.com
+# Wordpress
+wp.com
+wordpress.com
+# Avangate Shop
+secure.avangate.com
+# Surveymonkey
+secure.surveymonkey.com
+# JW Player
+ssl.p.jwpcdn.com
+# Tawk Live Chat
+tawk.to
+# Themoviedb.com
+themoviedb.com
+# Thetvdb.com
+thetvdb.com
+# Tinyurl Shortener
+tinyurl.com
+# Libsyn Podcast Hosting
+traffic.libsyn.com
+# Wikipedia
+wikipedia.org
+# Microsoft
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
+ui.skype.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+win10.ipv6.microsoft.com
+sharepoint.com
+pricelist.skype.com
+office.com
+office.net
+office365.com
+officeclient.microsoft.com
+notify.xboxlive.com
+nexusrules.officeapps.live.com
+microsoftonline.com
+licensing.xboxlive.com
+live.com
+msftncsi.com
+i.s-microsoft.com
+help.ui.xboxlive.com
+c.s-microsoft.com
+apps.skype.com
+attestation.xboxlive.com
+cert.mgt.xboxlive.com
+clientconfig.passport.net
+ctldl.windowsupdate.com
+dev.virtualearth.net
+device.auth.xboxlive.com
+ecn.dev.virtualearth.net
+def-vef.xboxlive.com
+eds.xboxlive.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+1drv.com
+aspnetcdn.com
+# Netflix
+api-global.netflix.com
+ichnaea.netflix.com
+appboot.netflix.com
+secure.netflix.com
+# Samsung TV network issue
+cdn.samsungcloudsolution.com
+# Spotify
+open.spotify.com
+mobile-ap.spotify.com
+apresolve.spotify.com
+upgrade.scdn.com
+market.spotify.com
+spclient.wg.spotify.com
+ap.spotify.com
+audio-ake.spotify.com.edgesuite.net
+audio4-ak.spotify.com.edgesuite.net
+# Sonos
+msmetrics.ws.sonos.com
+# Amazon Prime Video and Amazon CDN
+eu.api.amazonvideo.com
+device-metrics-us.amazon.com
+fls-eu.amazon.com
+fls-na.amazon.com
+cloudfront.net
+device-metrics-us-2.amazon.com
+images-amazon.com
+amazonaws.com
+# Apple
+gdmf.apple.com.akadns.net
+apple.com
+icloud.com
+itunes.com
+mzstatic.com
+apple-dns.net
+cdn-apple.com
+iphone-ld.origin-apple.com.akadns.net
+ax.phobos.apple.com.edgesuite.net
+init-p01md-lb.push-apple.com.akadns.net
+uts-api-cdn.itunes-apple.com.akadns.net
+np-edge-cdn.itunes-apple.com.akadns.net
+iadsdk.apple.com.akadns.net
+play.itunes.apple.com.edgesuite.net
+# Weather
+worldweather.wmo.int
+yr.no
+# Lets Encrypt
+letsencrypt.org
+# Spiegel.de
+sni.cdn.www.spiegel.de.c.footprint.net
+spiegel.de
+# Manager Magazin App
+manager-magazin-de.manager-magazin.de
+cdn1.manager-magazin.de
+sni.cdn.manager-magazin.de.c.footprint.net
+a.manager-magazin.de
+# Disney+ Streaming
+cdn.registerdisney.go.com
+dssott.com
+disneyplus.com
+disney-plus.net
+cws.conviva.com
+disneyplus.bn5x.net
+disney-portal.my.onetrust.com
+bamgrid.com
+disneyplus.com.ssl.sc.omtrdc.net
+cws-sjc2.conviva.com
+cws-iad1.conviva.com
+vod-l3c-eu-north-2.media.dssott.com.c.footprint.net
+disney.demdex.net
+# Formula 1 Mobile iOS
+codemasters.helpshift.com
+f1mrs.codemasters.com
+cdp.cloud.unity3d.com
+di-wuhqj6gc.leasewebultracdn.com
+config.uca.cloud.unity3d.com
+ecommerce.iap.unity3d.com
+# DynDns Provider
+dyndns.variomedia.de
+# ARD German Television
+image.ard.de
+image-ard-de-cddc.at-o.net
+daserste.de
+# German Corona Apps Very Special lol
+corona-datenspende.de
+datenspende.und-gesund.de
+# Firefox Browser
+detectportal.firefox.com
+# German Corona Warn App
+svc90.main.px.t-online.de
+# Earthquake App
+fe-lb.tranquilli.org
+# Reddit
+reddit.com
+# WhatsApp
+whatsapp.net
+whatsapp.com
