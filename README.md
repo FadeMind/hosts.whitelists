@@ -15,3 +15,4 @@ Part of [hosts.extras](https://github.com/FadeMind/hosts.extras).
 | whitelist.notracking | [link](https://github.com/notracking/hosts-blocklists)
 | whitelist.oisd | [link](https://oisd.nl/excludes.php)
 | whitelist.ookangzheng | [link](https://github.com/ookangzheng/blahdns)
+| whitelist.sptfy | [link](https://github.com/x0uid/SpotifyAdBlock)
