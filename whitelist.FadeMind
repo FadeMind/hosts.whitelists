@@ -27,9 +27,6 @@ data.mistat.intl.xiaomi.com
 deliver.vkcdnservice.com
 ebay.doubleclick.net
 ee.hit.gemius.pl
-epdg.epc.att.net
-epdg.epc.mnc006.mcc454.pub.3gppnetwork.org
-epdg.epc.mnc720.mcc302.pub.3gppnetwork.org
 fonts.gstatic.com
 galt.hit.gemius.pl
 gapl.hit.gemius.pl
@@ -53,7 +50,6 @@ nl.sitestat.com
 nuvi2.cdntvn.pl
 ocsp.apple.com
 partner.googleadservices.com
-primgw.vowifi2.spcsdns.net
 pro.hit.gemius.pl
 production-cmp.isgprivacy.cbsi.com
 prodxnews1blob.blob.core.windows.net
@@ -72,11 +68,11 @@ sgqcvfjvr.onet.pl
 sitefinder-idn.verisign.com
 sitefinder.verisign.com
 spl.hit.gemius.pl
-ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 ssl.google-analytics.com
 stat.livejournal.com
 static.hotjar.com
 stats.channel4.com
+stats.g.doubleclick.net
 stats.surfaid.ihost.com
 str.hit.gemius.pl
 t2.hulu.com
