@@ -1,0 +1,37 @@
+# Domains added below will be ignored, For example:
+# your-domain-name.com
+1188lv.adocean.pl
+adv.wp.pl
+adx.adform.net
+apps.media-lab.ai
+c.msn.com
+cdn-settings.appsflyersdk.com
+click.redditmail.com
+cm.g.doubleclick.net
+crashlyticsreports-pa.googleapis.com
+gapl.hit.gemius.pl
+google-analytics.com
+googleads.g.doubleclick.net
+googletagmanager.com
+googletagservices.com
+gvt1.com
+gvt2.com
+gvt3.com
+hit.gemius.pl
+imasdk.googleapis.com
+indexhu.adocean.pl
+insideruser.microsoft.com
+launches.appsflyer.com
+oaprodlogging.yo-digital.com
+pagead2.googlesyndication.com
+pubads.g.doubleclick.net
+redefineadpl.hit.gemius.pl
+sdk-02.moengage.com
+secure.adnxs.com
+securepubads.g.doubleclick.net
+sk.adocean.pl
+static.doubleclick.net
+stats.g.doubleclick.net
+tvn.adocean.pl
+tvn.hit.gemius.pl
+www-googletagmanager.l.google.com
