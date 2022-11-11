@@ -5,6 +5,7 @@ adv.wp.pl
 adx.adform.net
 apps.media-lab.ai
 c.msn.com
+cainiao.com
 cdn-settings.appsflyersdk.com
 click.redditmail.com
 cm.g.doubleclick.net
@@ -22,6 +23,7 @@ imasdk.googleapis.com
 indexhu.adocean.pl
 insideruser.microsoft.com
 launches.appsflyer.com
+mybbc-analytics.files.bbci.co.uk
 oaprodlogging.yo-digital.com
 pagead2.googlesyndication.com
 pubads.g.doubleclick.net
