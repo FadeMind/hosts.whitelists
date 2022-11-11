@@ -1,6 +1,7 @@
 # Domains added below will be ignored, For example:
 # your-domain-name.com
 1188lv.adocean.pl
+a.klaviyo.com
 adv.wp.pl
 adx.adform.net
 apps.media-lab.ai
@@ -10,6 +11,8 @@ cdn-settings.appsflyersdk.com
 click.redditmail.com
 cm.g.doubleclick.net
 crashlyticsreports-pa.googleapis.com
+d3tracking.rbc.com
+dailycaller.com
 gapl.hit.gemius.pl
 google-analytics.com
 googleads.g.doubleclick.net
@@ -23,11 +26,13 @@ imasdk.googleapis.com
 indexhu.adocean.pl
 insideruser.microsoft.com
 launches.appsflyer.com
+lnks.gd
 mybbc-analytics.files.bbci.co.uk
 oaprodlogging.yo-digital.com
 pagead2.googlesyndication.com
 pubads.g.doubleclick.net
 redefineadpl.hit.gemius.pl
+s3.us-west-1.wasabisys.com
 sdk-02.moengage.com
 secure.adnxs.com
 securepubads.g.doubleclick.net
