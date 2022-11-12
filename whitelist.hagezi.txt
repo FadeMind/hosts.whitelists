@@ -1,0 +1,1710 @@
+# Title: HaGeZi's White-/Allowlist
+# Description: The list contains incorrectly blocked domains that limit functionality
+# Homepage: https://github.com/hagezi/dns-blocklists
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+# Expires: Updated regularly
+
+# Adblock-Detection
+# Videos
+swankyrule.zomap.de
+# Bild.de
+tags.tiqcdn.com
+www.asadcdn.com
+# Express.de Videos
+player-feedback-v1.glomex.com
+
+# Amazon AWS
+aws.amazon.com
+bbuseruploads.s3.amazonaws.com
+kinesis.*.amazonaws.com
+s3-*.amazonaws.com
+s3.*.amazonaws.com
+s3.amazonaws.com
+
+# Amazon Devices
+acsechocaptiveportal.com
+avs-alexa*.amazon.com
+msh.amazon.co.uk
+# https://github.com/Perflyst/PiHoleBlocklist/issues/138
+mas-ext.amazon.com
+
+# Amazon Shopping
+*.images-amazon.com
+c.amazon-adsystem.com
+dp-gw-na.amazon.com
+dp-gw-*.amazon.com
+fls-*.amazon-adsystem.com
+fls-cn.amazon.cn
+fls-cn.amazon.com
+fls-eu.amazon.ae
+fls-eu.amazon.co.uk
+fls-eu.amazon.com
+fls-eu.amazon.de
+fls-eu.amazon.es
+fls-eu.amazon.fr
+fls-eu.amazon.in
+fls-eu.amazon.it
+fls-eu.amazon.nl
+fls-eu.amazon.sa
+fls-eu.amazon.se
+fls-fe.amazon.co.jp
+fls-fe.amazon.com
+fls-fe.amazon.com.au
+fls-fe.amazon.sg
+fls-na.amazon.ca
+fls-na.amazon.com
+fls-na.amazon.com.br
+fls-na.amazon.com.mx
+unagi-*.amazon.com
+unagi.amazon.cn
+unagi.amazon.co.jp
+unagi.amazon.co.uk
+unagi.amazon.com
+unagi.amazon.com.au
+unagi.amazon.com.br
+unagi.amazon.de
+unagi.amazon.es
+unagi.amazon.fr
+unagi.amazon.in
+unagi.amazon.it
+# CNAME fls-*.amazon.com
+*.forester.a2z.com
+# gateway.prod.*.forester.a2z.com
+# endpoint.prod.*.forester.a2z.com
+
+# Amazon Video
+aiv-cdn.net
+aiv-cdn.net.c.footprint.net
+aiv-delivery.net
+amazonvideo.com
+atv-ext-*.amazon.com
+atv-ext.amazon.com
+atv-ps.amazon.com
+d25xi40x97liuc.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
+primevideo.com
+pv-cdn.net
+
+# Apple
+# https://support.apple.com/en-us/HT210060
+*.apps.apple.com
+*.gc.apple.com
+*.gc.fe.apple-dns.net
+*.safebrowsing.apple
+*.smoot.apple.com
+apple-dns.net
+cstat.apple.com
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
+inappcheck*.apple.com
+iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
+mask-api.icloud.com
+mask-h2.icloud.com
+mask.apple-dns.net
+mask.icloud.com
+ocsp*.apple.com
+securemvt.apple.com
+smp-device-content.apple.com
+stats.gc.apple.com
+# https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558
+# xp.apple.com
+
+# Certificates
+*.digicert.com
+*.entrust.net
+*.geotrust.com
+*.lencr.org
+*.verisign.net
+
+# Cloudflare
+cdn.cloudflare.net
+cdnjs.cloudflare.co
+
+# Discord
+discord.com
+discord.gg
+discord.media
+discordapp.com
+discordapp.net
+discordstatus.com
+
+# Disney+
+disney-plus.net
+disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
+dss.map.fastly.net
+dssott.com
+dssott.com.akamaized.net
+search-api-disney.bamgrid.com
+cd-dmgz.bamgrid.com
+dvf2rc3rx4ypk.cloudfront.net
+
+# Disqus
+blog.disqus.com
+c.disquscdn.com
+d231vab146qzfb.cloudfront.net
+
+# Dropbox
+dl.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+
+# Facebook
+*graph-video.facebook.com
+*graph.facebook.com
+*graph.instagram.com
+connect.facebook.com
+connect.facebook.net
+external-ber1-1.xx.fbcdn.net
+i.instagram.com
+scontent-ber1-1.xx.fbcdn.net
+star*.facebook.com
+web.facebook.com
+# Facebook CDN
+*.cdninstagram.com
+*.fbcdn.net
+
+# Github
+ghcr.io
+github.com
+github.io
+github.map.fastly.net
+githubapp.com
+githubassets.com
+githubusercontent.com
+gitlab.com
+raw.githubusercontent.com
+
+# Google
+*.gstaticadssl.l.google.com
+0.client-channel.google.com
+2.android.pool.ntp.org
+afs.googleusercontent.com
+analyticsinsights-pa.googleapis.com
+analyticssearch-pa.googleapis.com
+android.clients.google.com
+appsbackup-pa.clients6.google.com
+appsbackup-pa.googleapis.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+clientservices.googleapis.com
+commondatastorage.googleapis.com
+connectivitycheck.gstatic.com
+cse.google.com
+device-provisioning.googleapis.com
+docs.google.com
+feedburner.google.com
+firebasedynamiclinks-ipv4.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebasedynamiclinks.googleapis.com
+firebaseinappmessaging.googleapis.com
+firebaseinstallations.googleapis.com
+firebasestorage.googleapis.com
+fonts.gstatic.com
+geller-pa.googleapis.com
+geo3.ggpht.com
+geomobileservices-pa.googleapis.com
+googleapis.com
+gstatic.com
+imasdk.googleapis.com
+instantmessaging-pa.googleapis.com
+mail.google.com
+manifest.googlevideo.com
+mobilecrashreporting.googleapis.com
+padlet-uploads.storage.googleapis.com
+people-pa.googleapis.com
+playmoviesdfe-pa.googleapis.com
+redirector.googlevideo.com
+safebrowsing.google.com
+safebrowsing.googleapis.com
+semanticlocation-pa.googleapis.com
+support.google.com
+telephonyspamprotect-pa.googleapis.com
+userlocation.googleapis.com
+video-stats.l.google.com
+yt3.ggpht.com
+# Not used for tracking, metrics, analytics
+*.metric.gstatic.com
+
+# Microsoft
+# https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+# https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
+*.*-msedge.net
+*.dds.microsoft.com
+*.services.microsoft.com
+*.smartscreen-prod.microsoft.com
+*.teams.live.com
+*.teams.microsoft.com
+*.update.microsoft.com
+*api.*.microsoft.com
+*microsoft.online-metrix.net
+*v10.events.data.microsoft.com
+*v10.vortex-win.data.microsoft.com
+*v20.events.data.microsoft.com
+*v20.vortex-win.data.microsoft.com
+activity.windows.com
+arc.msn.com
+assets.activity.windows.com
+atm-settingsfe-prod-geo*.trafficmanager.net
+continuum.dds.microsoft.com
+cs.dds.microsoft.com
+fp.msedge.net
+g.live.com
+g.msn.com
+go.microsoft.com
+go.trouter.skype.com
+insideruser.microsoft.com
+js.monitor.azure.com
+login.microsoftonline.com
+nexusrules.live.com
+nexusrules.live.com.akadns.net
+nexusrules.officeapps.live.com
+onecollector.cloudapp.aria.akadns.net
+onedscolprd*.*.cloudapp.azure.com
+prod.nexusrules.live.com.akadns.net
+self-events-data.trafficmanager.net
+self.events.data.microsoft.com
+settings-win.data.microsoft.com
+target.microsoft.com
+time.windows.com
+twc.trafficmanager.net
+vlscppe.microsoft.com
+wcpstatic.microsoft.com
+windowsupdate.s.llnwi.net
+www.msftconnecttest.com
+
+# Netflix
+netflix.com
+*.netflix.net
+*.nflxext.com
+*.nflximg.com
+*.nflximg.net
+*.nflxso.net
+*.nflxvideo.net
+ichnaea.netflix.com
+ichnaea.dradis.netflix.com
+ichnaea.*.origin.prodaa.netflix.com
+nrdp.nccp.netflix.com
+nrdp.nccp.dradis.netflix.com
+nrdp.nccp.*.origin.prodaa.netflix.com
+
+# Nintendo Switch
+nintendo.com
+nintendo.net
+nintendowifi.net
+a1843.g.akamai.net
+
+# NVidia
+activation.gfe.nvidia.com
+gfwsl.geforce.com
+images.nvidiagrid.net
+services.gfe.nvidia.com
+
+# Paypal
+paypal-dynamic-map.fastly.net
+paypal.ca
+paypal.co.uk
+paypal.com
+paypal.map.fastly.net
+paypalobjects.com
+
+# Sony (Playstation)
+playstation.com
+playstation.com.edgekey.net
+playstation.com.ssl.d1.sc.omtrdc.net
+playstation.net
+sonycoment.loris-e.llnwd.net
+sonyentertainmentnetwork.com
+sonyjpnpsg-1.hs.llnwd.net
+
+# Steam
+s.team
+steam-chat.com
+steambroadcast.akamaized.net
+steamcdn-a.akamaihd.net
+steamchina.com
+steamcommunity-a.akamaihd.net
+steamcommunity.com
+steamcontent.com
+steamgames.com
+steampowered.com
+steampowered.com.8686c.com
+steamstatic.com
+steamstatic.com.8686c.com
+steamstore-a.akamaihd.net
+steamusercontent-a.akamaihd.net
+steamusercontent.com
+steamuserimages-a.akamaihd.net
+steamvideo-a.akamaihd.net
+valvesoftware.com
+
+# Samsung TV - System update check, ...
+acr0.samsungcloudsolution.com
+cdn.samsungcloudsolution.com
+time.samsungcloudsolution.com
+
+# Signal
+signal.org
+whispersystems.org
+
+# Spotify
+# Prevent problems with Spotify Premium
+*spotify-com.akamaized.net
+heads*.spotify.com
+*.scdn.co
+wl.spotify.com
+
+# Telegram
+t.me
+telegram.me
+telegram.org
+telesco.pe
+tg.dev
+
+# Twitch
+ext-twitch.tv
+jtvnw.net
+live-video.net
+ttvnw.net
+twitch.okta.com
+twitch.map.fastly.net
+twitch.tv
+twitchcdn.net
+twitchsvc.net
+
+# Twitter
+ads.twitter.com
+analytics.twitter.com
+periscope.tv
+pscp.tv
+syndication.twitter.com
+t.co
+tweetdeck.com
+twimg.com
+twitpic.com
+twitter.co
+twitter.com
+twitterinc.com
+twitteroauth.com
+twitterstat.us
+twttr.com
+
+# WhatsApp
+wa.me
+whatsapp-plus.info
+whatsapp-plus.me
+whatsapp-plus.net
+whatsapp.cc
+whatsapp.com
+whatsapp.info
+whatsapp.net
+whatsapp.org
+whatsapp.tv
+whatsappbrand.com
+
+# XBox
+xbox.com
+xboxab.com
+xboxab.net
+xboxlive.com
+xboxlive.com.akadns.net
+xboxlive.com.c.footprint.net
+xboxlive.com.edgekey.net
+xboxservices.com
+
+# Youtube
+*.googlevideo.com
+*.ytimg.com
+i.ytimg.com
+i1.ytimg.com
+s.youtube.com
+s.ytimg.com
+s2.youtube.com
+youtu.be
+youtube-nocookie.com
+
+# ------------------------------------------------
+
+# Videos on different websites do not start when the following domains are blocked:
+*.schneevonmorgen.com
+*.schneevonmorgen.com.s3.amazonaws.com
+*.ultimedia.com
+*.damoh.*.de
+config-vvs.glomex.com
+consent.dk
+engine.phn.doublepimp.com
+fr-lb.ultimedia.com
+i.shoosh.co
+i01.sozcucdn.com
+p.brid.tv
+player.glomex.com
+s0-2mdn-net.l.google.com
+s0.2mdn.net
+s2.static.cfgr3.com
+services.brid.tv
+servix.idnes.cz
+slike.indiatimes.com
+tdn.da-services.ch
+tm.jsuol.com.br
+uim.tifbs.net
+v.shoosh.co
+video.xxxjmp.com
+videos-fms.jwpsrv.com
+videos.porndig.com
+
+# AdGuard
+*.adguard.com
+
+# Misc (Breaking)
+assets.dwell.com
+assets.mmsrg.com
+cdn.opecloud.com
+compass.pressekompass.net
+content.aimatch.com
+i1.wp.com
+images.dmca.com
+images.dwell.com
+img.yana.asideas.de
+mycliplister.com
+pcapredict.com
+sportsbet.com.au
+tagger.opecloud.com
+
+# NextDNS
+*.nextdns.io
+
+# Cookies on various sites (spiegle.de ...)
+*.sp-prod.net
+
+# Polls on n-tv.de and other news sites
+api.opinary.com
+widgets.opinary.com
+
+# FAZ
+consent.faz.net
+faz.sevenval-fit.com
+
+# breaks site layout
+stats.t-online.de
+
+# breaks site layout
+bilder.fernsehserien.de
+
+# Tidal login
+et.tidal.com
+dd.tidal.com
+sslgen-tidal.datadome.co
+dd.tidal.com.first-party-js.datadome.co
+
+# CoinInsider is the authority on bitcoin, ethereum, ICOs & blockchain news
+coininsider.com
+
+# Deviantart
+static.parastorage.com
+
+# GMX
+i0.gmx.net
+
+# Pinterest
+ct.pinterest.com
+
+# false detected by regex
+ad.nl
+
+# https://github.com/notracking/hosts-blocklists/issues/767
+formspree.io
+
+# https://github.com/notracking/hosts-blocklists/issues/765
+doh.dns.sb
+
+# https://github.com/notracking/hosts-blocklists/issues/764
+shop.spreadshirt.com
+
+# https://github.com/notracking/hosts-blocklists/issues/761
+dynu.net
+
+# https://github.com/anudeepND/blacklist/issues/201
+api.bufferapp.com
+
+# https://github.com/notracking/hosts-blocklists/issues/768
+store.minisforum.de
+
+# https://github.com/hagezi/dns-blocklists/issues/3
+licenses.ashampoo.com
+
+# n-tv Livestream
+te.technical-service.net
+
+# https://github.com/badmojr/1Hosts/issues/553
+api.revenuecat.com
+
+# HP Smart App - Installation wizard not loading
+mobilesdk-*.kampyle.com
+
+# https://github.com/AdAway/adaway.github.io/issues/309
+cs.liiift.io
+
+# https://github.com/AdguardTeam/AdguardFilters/issues/32303
+e.reddit.com
+
+# https://github.com/notracking/hosts-blocklists/issues/769
+optmzly.fe.indazn.com
+
+# https://github.com/notracking/hosts-blocklists/issues/771
+cdn.dnsv1.com
+
+# https://github.com/hagezi/dns-blocklists/issues/5
+de.aukey.com
+
+# https://github.com/hagezi/dns-blocklists/issues/6
+online.sh.cn
+
+# https://github.com/notracking/hosts-blocklists/issues/773
+scenarieconomici.it
+
+# Images on vagina.nl
+wum97myjdw.ent-cdn.com
+
+# deskpi store
+deskpi.com
+
+# Postal tracking
+swiftcourrier.com
+
+# https://github.com/hagezi/dns-blocklists/issues/8
+mail.tsinghua.edu.cn
+
+# https://github.com/WaLLy3K/wally3k.github.io/issues/161
+d.ifengimg.com
+
+# https://github.com/hagezi/dns-blocklists/issues/11
+sea.net.edu.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/10
+ks.cn
+www.ks.cn
+
+# https://github.com/AdAway/adaway.github.io/issues/338
+pi.pardot.com
+
+# Shop
+koisea.com
+
+# https://github.com/badmojr/1Hosts/issues/584
+ftp.iij.ad.jp
+
+# https://github.com/badmojr/1Hosts/issues/581
+clientstream.launchdarkly.com
+
+# https://github.com/hagezi/dns-blocklists/issues/13
+img.myflixer.to
+myflixer.to
+
+# store
+zeelool.com
+
+# https://github.com/StevenBlack/hosts/issues/2009
+smart.link
+
+# https://github.com/hagezi/dns-blocklists/issues/14
+bestgore.fun
+
+# Disney images in mails
+image.mail.disneyplus.com
+
+# Dev Tutorials
+newbedev.com
+
+# https://github.com/hagezi/dns-blocklists/issues/19
+activehosted.com
+
+# https://github.com/hagezi/dns-blocklists/issues/19
+activecampaign.com
+
+# https://forum.adguard.com/index.php?threads/45115/223037
+amplitude.com
+
+# https://github.com/nextdns/metadata/issues/1020
+mintos.com
+
+# Images/Links in Twitch mails
+ink1001.com
+# Prime Loot
+spade.twitch.tv
+countess.twitch.tv
+
+# NordVPN Support
+cdn-customers.nanorep.com
+
+# Customer support
+*.zopim.com
+
+# https://github.com/EnergizedProtection/block/issues/639
+devices.carnivalmobile.com
+
+# Rules update ClearURLs Addon
+rules2.clearurls.xyz
+
+# Stock images
+shutterstock.com
+
+# https://github.com/hagezi/dns-blocklists/issues/24
+go.e2language.com
+
+# Verbraucherzentrale NRW (detected by NRD)
+fakeshop-finder.nrw
+
+# required for steam purchases
+t.paypal.com
+
+# https://github.com/hagezi/dns-blocklists/issues/26
+cdn.elev.io
+
+# Upload Crash report
+in.appcenter.ms
+
+# Deploy mobile app updates directly to devices
+codepush.appcenter.ms
+
+# https://github.com/StevenBlack/hosts/issues/2042
+audid-api.taobao.com
+
+# AdBlock Detection Rakuten.tv
+# !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
+# tv.ads.spotx.tv
+# *.2mdn.net
+# *.smartclip.net
+# ...
+
+# https://github.com/notracking/hosts-blocklists/issues/788
+dcf.espn.com
+dcfdata.espn.com
+players.brightcove.net
+
+# https://github.com/notracking/hosts-blocklists/issues/787
+m1.fwmrm.net
+m2.fwmrm.net
+mssl.fwmrm.net
+mssl.fwmrm.net.edgesuite.net
+
+# https://github.com/notracking/hosts-blocklists/issues/786
+above.com
+
+# https://github.com/nextdns/metadata/issues/1003
+webadvisorc.rest.gti.mcafee.com
+
+# Videos on 20min.ch - Example:  https://www.20min.ch/video/weisse-girls-mit-farbigen-dreadlocks-finde-ich-nicht-so-toll-222458234734
+tdn.da-services.ch
+
+# Videos on 247sports.com - Example: https://247sports.com/Video/Preps-To-Pros-Player-as-Potental-5-Star-Jump-Chris-Vizzina-11250144/
+production-cmp.isgprivacy.cbsi.com
+
+# Videos on 9news.com.au
+*.api.brightcove.com
+edge.api.brightcove.com
+
+# domain reseller
+afternic.com
+
+# Videos on tv.aftonbladet.se
+cdn.stream.schibsted.media
+
+# Breaks site layout ameba.jp
+stat100.ameba.jp
+
+# Red Hat Ansible
+ansible.com
+# CNAMES https://www.ansible.com/
+group46.sites.hscoscdn40.net
+330046.group46.sites.hubspot.net
+330046g46.secure0032.hubspot.net
+
+# Anime site
+anime-loads.org
+
+# Videos on arstechnica.com
+player.cnevids.com
+cdn.mediavoice.com
+plugin.mediavoice.com
+
+# Breaks site layput on bankofamerica.com
+staticweb.bankofamerica.com
+# CNAMES
+staticweb.ecglb.bac.com
+cs636.wac.chicdn.net
+
+# Images on bloomberght.com
+geoim.bloomberght.com
+
+# Images and videos on bostonglobe.com
+amp-api-prd.bostonglobe.com
+video-api.bostonglobe.arcpublishing.com
+bostonglobe-prod.cdn.arcpublishing.com
+video-api-cdn.bostonglobe.arcpublishing.com
+
+# Breaks site layout on boston.com
+bdc2020.o0bc.com
+
+# Chip TR
+chip.com.tr
+
+# survey-based insights
+cint.com
+
+# Calssmates site
+classmates.com
+
+# Breaks site layout on ctrip.com
+c-ctrip.com
+
+# Videos on digitaltrends.com
+# !!! Will not be unblocked, the domain is used for ads/tracking and is quite common !!!
+# pub.doubleverify.com
+# securepubads.g.doubleclick.net
+
+# Breaks site layout fastpic.org
+static.fastpic.org
+
+# Imageas and site layout on femmeactuelle.fr
+tra.scds.pmdstatic.net
+
+# Fun Trivia
+funtrivia.com
+
+# Breaks site layout on guancha.cn
+i.guancha.cn
+
+# Breaks site layout on haberler.com
+s.hbrcdn.com
+i.hbrcdn.com
+
+# heroeswm.ru
+heroeswm.ru
+
+# Heureka
+heureka.sk
+
+# Huge Domains
+hugedomains.com
+
+# Videos on huffpost.com
+capi.connatix.com
+cd.connatix.com
+cds.connatix.com
+img.connatix.com
+vid.connatix.com
+
+# Videos on huffingtonpost.it / iltalehti.fi
+#+ www.googletagmanager.com
+
+# Videos on WOW / Sky Ticket / Hulu
+dpm.demdex.net
+edge-irl1.demdex.net
+gslb-2.demdex.net
+
+# Images on iwank.tv
+static.webclicks24.com
+
+# https://github.com/notracking/hosts-blocklists/issues/789
+*.cdn-noc.net
+
+# https://github.com/badmojr/1Hosts/issues/661
+alvarotrigo.com
+browserhow.com
+
+# https://github.com/StevenBlack/hosts/issues/2047
+ocs-dl.fra1.cdn.digitaloceanspaces.com
+cds.b5g9b8e4.hwcdn.net
+
+# Images on landsend.com
+scnd.landsend.com
+
+# Videos on lavoixdunord.fr
+ads.videoadex.com
+
+# Limetorrents
+limetorrents.lol
+
+# Mailerlite main site
+mailerlite.com
+
+# MANGO shop
+shop.mango.com
+
+# Maxpark site
+maxpark.com
+
+# Images on mentalfloss.com
+assets.minutemediacdn.com
+images1.minutemediacdn.com
+images2.minutemediacdn.com
+
+# Metal Tracker site
+metal-tracker.com
+
+# mixi site
+mixi.jp
+
+# MyAbandonWare
+myabandonware.com
+
+# MyPoints web site
+mypoints.com
+
+# Nairland Forum
+nairaland.com
+
+# Videos on nationalreview.com
+player.avplayer.com
+play.aniview.com
+
+# Videos on nhl.com
+# !!! Will not be unblocked, the domain is used for ads/tracking and is quite common !!!
+# pubads.g.doubleclick.net
+
+# Breakls site layout on nnmclub.to
+nnmstatic.win
+
+# Breaks site layout in note.com
+d291vdycu0ht11.cloudfront.net
+
+# Site nutaku
+nutaku.net
+nutaku.com
+cdn1-images.nutaku.net
+cdn1-images.nutaku.com
+
+# my.nextdns.io
+*.vercel-dns.com
+cname.vercel-dns.com
+
+# Videos on omroepbrabant.nl
+omroepbrabant.bbvms.com
+vms.bluebillywig.com
+
+# Breaks site layout on opentable.com
+cdn.otstatic.com
+
+# PicClick
+picclick.com
+
+# Plarium
+plarium.com
+
+# Qoo10 Shop
+qoo10.sg
+
+# https://github.com/hagezi/dns-blocklists/issues/27
+# Breaks Pizzahut AU - seems to be fixes on site!
+# js.sentry-cdn.com
+
+# Qt
+qt.io
+
+# Search on various sites
+*.searchnode.io
+*.searchnode.net
+
+# Images/Content on realclearpolitics.com
+assets.realclear.com
+
+# ROJADIRECTA
+rojadirecta.me
+
+# Videos on rnd.de
+*.video-api.arcpublishing.com
+madsack-prod-cdn.video-api.arcpublishing.com
+
+# Site layout on rutube.ru
+static.rutube.ru
+cl-ad786718.edgecdn.ru
+
+# Site layout on rutor.is
+cdnbunny.org
+
+# save.tv
+save.tv
+
+# SCNlog
+scnlog.me
+
+# Click article Links on scotsman.com
+#+ www.googletagmanager.com
+
+# Breaks site layout on share-videos.se
+static.share-videos.se
+
+# sibnet.ru
+sibnet.ru
+
+# shopvote.de
+shopvote.de
+
+# Breaks site layout on sondakika.com
+s.sdacdn.com
+i.sdacdn.com
+
+# falabella.com
+sodimac.cl
+
+# socpublic.com
+socpublic.com
+
+# soso.com
+soso.com
+
+# tarafdari.com
+tarafdari.com
+
+# Breaks site layout on world.taobao.com
+h5api.m.taobao.com
+
+# https://github.com/badmojr/1Hosts/issues/667
+myip.wtf
+
+# https://github.com/badmojr/1Hosts/issues/669
+netdirector.co.uk
+auto.netdirector.co.uk
+campaignmanager.netdirector.co.uk
+images.netdirector.co.uk
+payments*.netdirector.co.uk
+
+# tipico.de
+*.tipico.de
+
+# tracker.gg
+tracker.gg
+
+# track24.ru
+track24.ru
+
+# twitchy.com
+twitchy.com
+
+# IX
+ix.de
+
+# kamibox.de
+kamibox.de
+
+# china-gadgets.de
+china-gadgets.de
+
+# eterna.de
+eterna.de
+
+# ihreapotheken.de
+ihreapotheken.de
+
+# ad-magazin.de
+ad-magazin.de
+
+# homepage-baukasten.de
+homepage-baukasten.de
+
+# Videos on tvspielfilm.de
+cmp.tvspielfilm.de
+
+# Images on 1001spiele.de
+ccf.admeen.org
+tcf.admeen.org
+
+# buy content pass on autoservicepraxis.de and other sites
+get.contentpass.net
+
+# Breaks site layout on betano.de
+static.gmlinteractive.com
+cov.gmlinteractive.com
+
+# Images on https://www.beretta.com/en-us/gifts/
+# https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1012
+marvel-b1-cdn.bc0a.com
+
+# https://github.com/badmojr/1Hosts/issues/677
+awxcdn.com
+
+# Sign in on https://www.spectrum.net/
+# https://github.com/badmojr/1Hosts/issues/640
+pov.spectrum.net
+h-charter.online-metrix.net
+
+# DHgate shopping
+de.dhgate.com
+
+# IP Address Tools
+ipaddress.com
+
+# Breaks Windowsupdate in VirtualBox
+*.api.iris.microsoft.com
+
+# Images/ media on sports.bwin.de
+scmedia.itsfogo.com
+media.itsfogo.com
+
+# Videos on bunte.de
+hgc-cf-cache-1.svonm.com
+
+# Site layout on cinemaxx.de
+# !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
+# securepubads.g.doubleclick.net
+#+ googletagservices.com
+
+# co.de / subdomains.com
+co.de
+
+# Blocks login/content after login on nzz.ch
+track.nzz.ch
+ens.nzz.ch
+
+# Shopping saturn.de
+car.saturn.de
+pvn.saturn.de
+
+# Unity
+answers.unity.com
+unityprod.answerhub.com
+
+# DATEV Community
+datev-community.de
+
+# Breaks site daskochrezept.de
+cmp-consent-tool.privacymanager.io
+
+# Cookie-Management (required) on t3n.de and other sites
+cdn.privacy-mgmt.com
+
+# nickles.de site & cookies
+nickles.de
+test.cmp.quantcast.com
+
+# Breaks site https://www.forbes.com/cloud100/list/2/
+consent.trustarc.com
+
+# Breaks site layout on winfuture.de
+wfcdn.de
+i.wfcdn.de
+j.wfcdn.de
+scr.wfcdn.de
+
+# Videos on fcbinside.de
+embed.dugout.com
+
+# Videos on fitbook.de
+cdn.bitmovin.com
+
+# Breaks login on videoland.com
+# https://github.com/AdAway/adaway.github.io/issues/343
+socialize.eu1.gigya.com
+
+# Videos on various sites (SAT1, PRO7, ...)
+polyfill.io
+
+# Audo Stream on ikz-online.de
+ads.julephosting.de
+
+# Videos om kino.de
+vid-cdn*.stroeermb.de
+videos.kino.de
+
+# https://github.com/nextdns/metadata/issues/1058
+learn.cisecurity.org
+
+# Videos on RTL.de
+rtl-relay.iocnt.net
+relay-client-c03.iocnt.net
+data-191b2429e8.rtl.de
+#+ googletagmanager.com
+
+# Site layout on https://www.mybestbrands.de/
+# cdn-eu.dynamicyield.com
+# cdn*.dynamicyield.com
+
+# Breaks site layout on MyDirtyHobby
+*.mdhcdn.com
+cdn1-s-ha-e15.mdhcdn.com
+cdn1-s-ha-e17t.mdhcdn.com
+cdn1-s-ha-e18.mdhcdn.com
+
+# Videos on moviepilot.de
+# !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
+# cdn.lib.getjad.io
+# securepubads.g.doubleclick.net
+
+# CDN for Amazon JP
+dtioykqj1u8de.cloudfront.net
+
+# https://github.com/WaLLy3K/wally3k.github.io/issues/147
+content.ibanking-services.com
+
+# Blocks the IPTV service provided by https://nimitv.com/en.html - https://github.com/AdAway/adaway.github.io/issues/346
+# static.cloudflareinsights.com
+
+# Searchbar on weather.com not accessible - https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1034#event-7315828826
+mparticle.map.fastly.net
+mparticle.weather.com
+
+# https://github.com/AdAway/adaway.github.io/issues/345
+# cdn-settings.appsflyersdk.com
+
+# https://github.com/hagezi/dns-blocklists/issues/28
+domaintechnik.at
+
+# Roblox
+locale.roblox.com
+
+# Chip Downloads
+api.chip-secured-download.de
+
+# Images on beeg.com
+thumbs-015.externulls.com
+
+# Welt.de - internally hosted ads are displayed when the following domain is blocked
+yagiay.com
+
+# https://github.com/nextdns/metadata/issues/1060
+wallet.advcash.com
+
+# https://github.com/nextdns/metadata/issues/1061
+*.videorolls.row.aiv-cdn.net
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3.ll.videorolls.row.aiv-cdn.net
+
+# Gitlab pages
+ab13.mktossl.com
+gitlab.mktoweb.com
+page.gitlab.com
+
+# Firefox tracking protection
+tracking-protection.cdn.mozilla.net
+
+# ChannelPilot - Product Management Tool
+click.cptrack.de
+content.cptrack.de
+
+# Videos on news38.de
+lbnew.consentmanager.net
+consentmanager.mgr.consensu.org
+
+# Mobile phones with Mediatek chip (EPO.DAT)
+*.mediatek.com
+
+# Videos on crunchyroll.com
+fy.v.vrv.co
+
+# ALDI Prospekte
+prospekt.aldi-sued.de
+publitas.com
+*.custom-domain.publitas.com
+
+# https://github.com/badmojr/1Hosts/issues/699
+ekomi.com
+smartforms.ekomi.com
+
+# https://github.com/FadeMind/hosts.extras/issues/54
+pastie.org
+
+# VOE Videos
+voe.sx
+uptodatefinishconferenceroom.com
+
+# https://github.com/bigdargon/hostsVN/issues/327
+sdk-02.moengage.com
+
+# Surveys and more
+qualtrics.com
+
+# Videos on heise.de
+cdnapisec.kaltura.com
+cdn-kaltura-dscd.edgekey.net
+
+# https://github.com/StevenBlack/hosts/issues/2081
+ablink.account.quizlet.com
+
+# Website analysis
+# similarweb.com
+
+# Recruiting smart people
+talentwunder.com
+
+# Search on brickshop.nl
+ws.sharethis.com
+
+# Updates on Oppo devices
+component-ota-in.allawnos.com
+
+# Islamic University of Technology
+iutoic-dhaka.edu
+
+# Mexican restaurant
+abuelos.com
+
+# Images on Baidu
+t10.baidu.com
+
+# Meituan/Huawei apps
+api-unionid.meituan.com
+
+# https://github.com/badmojr/1Hosts/issues/702
+yacy.net
+searchlab.eu
+
+# https://en.wikipedia.org/wiki/Deep_Freeze_(software)
+faronics.com
+
+# File Upload Service
+files.im
+
+# URL shortener
+tny.cz
+
+# Black Hat forum
+fssquad.com
+
+# Videos on dmax.de
+src.litix.io
+
+# Lieferando Food Tracker
+tracker.scoober.com
+
+# Breaks some Android Apps (Images not loading, ...)
+# https://github.com/AdAway/adaway.github.io/issues/347
+res.cloudinary.com
+
+# wieistmeineip.de
+wieistmeineip.de
+
+# Blogroll on 1000mg.jp
+blogroll.livedoor.net
+
+# QA Stack
+qastack.com.de
+
+# Images in Nintendo mails
+exacttarget.com.edgesuite.net
+image.ccg.nintendo.net
+
+# Content in RTL+ mails
+# cdn.braze.eu
+
+# https://github.com/badmojr/1Hosts/issues/708
+*.kiwibrowser.com
+
+# Strato Shops
+shop.strato.de
+
+# https://github.com/hagezi/dns-blocklists/issues/39
+yu.ac.kr
+
+# https://github.com/hagezi/dns-blocklists/issues/38
+uu.cc
+
+# https://github.com/hagezi/dns-blocklists/issues/36
+ku6.com
+
+# https://github.com/hagezi/dns-blocklists/issues/35
+knet.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/34
+hexun.com
+
+# https://github.com/hagezi/dns-blocklists/issues/33
+happyelements.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/32
+flvto.biz
+
+# https://github.com/hagezi/dns-blocklists/issues/31
+baihe.com
+
+# https://github.com/hagezi/dns-blocklists/issues/30
+56.com
+
+# Parcel tracking
+track.aliexpress.com
+
+# REWE online Prospekt
+content-media.bonial.biz
+
+# Fix Office Forms
+c.msn.com
+
+# General support chat
+# https://github.com/hagezi/dns-blocklists/issues/40
+*.intercom.io
+api.intercom.io
+api-iam.intercom.io
+widget.intercom.io
+
+# SurveyMonkey
+research.net
+
+# O2 App
+api-v4.trbo.com
+
+# Shops
+*.spartoo.co.uk
+*.spartoo.de
+*.spartoo.it
+gizmodern.com
+
+# https://github.com/badmojr/1Hosts/issues/728
+metricool.com
+
+# https://github.com/notracking/hosts-blocklists/issues/799
+s3.us-west-1.wasabisys.com
+
+# https://github.com/AdAway/adaway.github.io/issues/349
+images.salsify.com
+
+# Amazon Photos
+cdws.eu-west-1.amazonaws.com
+
+# Mac Software
+mackeeper.com
+
+# GPS Track Platform
+traccar.org
+
+# Customer Chat / Vodafone error reporting
+*.messengerpeople.com
+
+# Breaks some services/sites (Renault API, ...)
+# https://github.com/StevenBlack/hosts/issues/2098
+# https://github.com/AdAway/adaway.github.io/pull/352
+# https://github.com/nextdns/metadata/issues/1078
+# ...
+*.gigya.com
+
+# https://github.com/AdAway/adaway.github.io/issues/338
+info.ammex.com
+go.pardot.com
+pi.pardot.com
+
+# Das Erste / ARD
+# image.ard.de
+# image-ard-de-cddc.at-o.net
+
+# https://github.com/AdAway/adaway.github.io/pull/353
+cdn.rebuyengine.com
+
+# Search on https://www.malwarebytes.com/glossary
+searchg2.crownpeak.net
+
+# OpenJDK
+openjdk.org
+
+# rarbg.to CAPTCHA
+rarbgmirrored.org
+
+# WordPress Websites design specialists
+wpbeaches.com
+
+# Images on Forbes
+*.ceros.com
+
+# MAJESTIC
+majesticseo.com
+
+# Tyk
+tyk.io
+
+# videos on LineTV
+itad.linetv.tw
+
+# https://github.com/hagezi/dns-blocklists/issues/45
+chinatruck.org
+21food.cn
+8684.cn
+bjtime.cn
+bozhou.gov.cn
+ccgslb.com.cn
+cert.org.cn
+cggc.cn
+cnnic.cn
+cnnic.net
+cnvd.org.cn
+game2.cn
+gxuwz.edu.cn
+htpm.com.cn
+maimai.cn
+neixin.cn
+nejmqianyan.cn
+openwrite.cn
+quickapp.cn
+rayli.com.cn
+s11.cn
+sinastorage.cn
+sinastorage.com
+whnews.cn
+xyaz.cn
+z.cn
+catch.net.tw
+ypu.edu.tw
+hecom.com.hk
+
+# ECOSIA
+ecosia.de
+
+# https://github.com/hagezi/dns-blocklists/issues/47
+chrunlee.cn
+clarins.com.cn
+lockview.cn
+pepsico.com.cn
+rbc.cn
+wilf.cn
+yhjxcj.cn
+zhongmin.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/48
+apu.edu.my
+atsn.ac.th
+chnu.edu.ua
+ifbaiano.edu.br
+iitrpr.ac.in
+kanlayanee.ac.th
+mut.ac.ke
+netco.edu.np
+overseas.edu.lk
+pamer.edu.pe
+ringling.edu
+tsatu.edu.ua
+unicauca.edu.co
+vanividyalaya.edu.in
+wcc.edu.in
+
+# Portainer
+cr.portainer.io
+gateway.scarf.sh
+
+# Microsoft Edge
+microsoftedgewelcome.microsoft.com
+
+# Coveo search functionality
+static.cloud.coveo.com
+
+# https://github.com/Ultimate-Hosts-Blacklist/whitelist/issues/190
+js.pusher.com
+
+# Maxmind
+maxmind.com
+
+# https://about.gitlab.com/solutions/open-source/join/
+*.sheerid.com
+
+# Torrent Tracker
+tracker.avistaz.to
+tracker.beyond-hd.me
+tracker.animebytes.tv
+tracker.alpharatio.cc
+
+# Firmware updates shure.com
+p.shure.com
+
+# JoynMe App
+middleware.p7s1.io
+
+# F1 App livetiming
+embed.scribblelive.com
+
+# F1 TV
+f1-prod-production.apigee.net
+f1-prod-production.dn.apigee.net
+f1tv-cdn-cent-east.formula1.com.c.footprint.net
+f1tv-cdn-cent-live.formula1.com.c.footprint.net
+f1tv-cdn-cent-west.formula1.com.c.footprint.net
+f1tv-livedata.formula1.com
+formula1.com
+
+# Manufacture of ZigBee and Z-Wave controllers
+aeotec.com
+
+# https://github.com/StevenBlack/hosts/issues/2109
+learn.cisecurity.org
+
+# https://github.com/EnergizedProtection/block/issues/902
+*.wdtinc.com
+
+# Breaks Hulu streaming when at ad play periods
+ads-a-darwin.hulustream.com.akamaized.net
+ads-fa-darwin.hulustream.com
+ads-e-darwin.hulustream.com
+
+# Parcel tracking
+17track.net
+
+# Videos on linetv.tw
+itad.linetv.tw
+
+# Search engine
+yep.com
+
+# Vodafone IMS Services
+*.ims.vodafone.com
+
+# Soundcloud Feeds
+d28n7yywqog3r7.cloudfront.net
+
+# WhatsApp news site
+wabetainfo.com
+
+# Personal Domain - https://github.com/notracking/hosts-blocklists/issues/804
+disguised.nl
+
+# Prevents registration on rungne.com
+a.klaviyo.com
+
+# Videos in Glomex player
+lush-clouds.zomap.de
+
+# Banking
+zinspilot.de
+
+# Disneyland Paris register
+*.registerdisney.go.com
+
+# 3-D Secure authentication
+includes.ccdc02.com
+
+# DPD parcel tracking
+tracking.dpd.de
+
+# Akamai
+akamaihd.net
+akamaitechnologies.com
+akamaized.net
+lastfm-img2.akamaized.net
+widget-cdn.rpxnow.com
+
+# uceprotect network
+uceprotect.net
+
+# Breaks site layouts - ex. bose.com
+assets.adobedtm.com
+
+# AdBlock Detection on Sport1
+# https://github.com/ookangzheng/blahdns/issues/271
+tag.aticdn.net
+
+# CNAME best-lover
+target.clickfunnels.com
+
+# Breaks https://support.xbox.com/en-US/
+# https://github.com/AdAway/adaway.github.io/issues/330
+statics-marketingsites-neu-ms-com.akamaized.net
+
+# Adult game site
+ero-labs.online
+
+# Videos on NFL.com
+p.nfltags.com
+
+# GeFroce Now login on ShieldTV
+collector.lightstep.com
+ingest.lightstep.com
+
+# Videos Sueddeutsche.de
+prd.jwpltx.com
+pix.sueddeutsche.de
+
+# Add calendar events
+addthisevent.com
+
+# Images on SkyShowTime
+pixel.disco.skyshowtime.com
+
+# Videos on mein-mmo.de
+sdk.privacy-center.org
+
+# Computermagazine
+pcwelt.de
+
+# Ionos Mails
+cloud-news.ionos.com
+
+# e-mail bulletins
+lnks.gd
+
+# https://github.com/AdguardTeam/AdguardFilters/issues/132565
+shalltry.com
+
+# Breaks Videos on adult sites
+streamsb.net
+
+# VPS forum
+lowendbox.com
+
+# PerimeterX (HUMAN Security) is an application security and anti fraud solution
+*.perimeterx.net
+*.px-cloud.net
+
+# platform for interactive content
+view.genial.ly
+
+# Images on various sites not loading
+sp-ao.shortpixel.ai
+
+# Breaks fastpic.org
+static.fastpic.org
+
+# Confirmation of change.org petitions
+click.e.change.org
+www.change.org.cdn.cloudflare.net
+
+# reviews about online shops
+avis-verifies.com
+
+# Media CDN
+iframely.net
+
+# CRL server for GoDaddy Subsidiary Starfield CA
+o.ss2.us
+s.ss2.us
+
+# Breaks Fidelity login
+h-fidelity.online-metrix.net
+
+# Mastodon instance
+ioc.exchange
+
+# Shopping tables on verabradley.com
+js.klevu.com
+
+# Dicks Sporting Goods website catalog will not show product listings
+tag.dickssportinggoods.com
+
+# T-Mobile Tuesdays in-app messages
+device-api.urbanairship.com
+
+# kohls.com product catalog images
+stylitics.com
+web-assets.stylitics.com
+web-assets.stylitics.com.cdn.cloudflare.net
+
+# News site
+dailycaller.com
+
+# Application Insights data on the Azure portal
+*.aimon.applicationinsights.io
+applicationinsights.io
+
+# RBC Two step authentication
+d3tracking.rbc.com
+
+# Chipotle account login
+services.chipotle.com
+
+# apple-dns.net
+apple-dns.net
+
+# Articles on buzzfee.com
+abeagle-public.buzzfeed.com
+
+# EA Desktop App - Properties unavailable
+sdk.split.io

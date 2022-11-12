@@ -10,6 +10,7 @@ Part of [hosts.extras](https://github.com/FadeMind/hosts.extras).
 | whitelist.Ultimate-Hosts-Blacklist | [link](https://github.com/Ultimate-Hosts-Blacklist/whitelist)
 | whitelist.ZeroDot1_CoinBlockerLists | [link](https://github.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists)
 | whitelist.anudeepND | [link](https://github.com/anudeepND/blacklist) 
+| whitelist.hagezi | [link](https://github.com/hagezi/dns-blocklists)
 | whitelist.hg1978 | [link](https://github.com/hg1978/AdGuard-Home-Whitelist)
 | whitelist.jawz101 | [link](https://github.com/jawz101)
 | whitelist.notracking | [link](https://github.com/notracking/hosts-blocklists)
